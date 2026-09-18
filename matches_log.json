@@ -1,6 +1,144 @@
 [
   {
     "journal": "Molecular Therapy Nucleic Acids",
+    "title": "2026: A watershed year for RNA therapeutics\u2014From breakthrough vaccines to chronic indications and beyond",
+    "link": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(26)00256-8?rss=yes",
+    "date": "2026-09-18T10:09:05.872444Z"
+  },
+  {
+    "journal": "Cell Chemical Biology",
+    "title": "Quantitative profiling of RNA modifications enriched in non-membrane-bound cellular structures using APEX-RNA-MS",
+    "link": "https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(26)00191-1?rss=yes",
+    "date": "2026-09-18T10:09:05.667776Z"
+  },
+  {
+    "journal": "Cell Chemical Biology",
+    "title": "Mechanistic dissection of SMARCA2/4 molecular glues reveals programmable switching between DCAF16 and FBXO22",
+    "link": "https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(26)00198-4?rss=yes",
+    "date": "2026-09-18T10:09:05.620105Z"
+  },
+  {
+    "journal": "Cell Chemical Biology",
+    "title": "N-acetyltransferase 10 regulates chemokine expression in keratinocytes and promotes atopic dermatitis",
+    "link": "https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(26)00236-9?rss=yes",
+    "date": "2026-09-18T10:09:05.572788Z"
+  },
+  {
+    "journal": "Cell Chemical Biology",
+    "title": "Signaling of glycoRNAs to Siglec-11 protects neurons by suppressing NF-\u03baB",
+    "link": "https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(26)00196-0?rss=yes",
+    "date": "2026-09-18T10:09:05.524797Z"
+  },
+  {
+    "journal": "Cell Chemical Biology",
+    "title": "NAT10 promotes keratinocyte-neutrophil crosstalk in atopic dermatitis",
+    "link": "https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(26)00294-1?rss=yes",
+    "date": "2026-09-18T10:09:05.477917Z"
+  },
+  {
+    "journal": "Cell Chemical Biology",
+    "title": "Cell-surface glycoRNAs put the brakes on neuroinflammation",
+    "link": "https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(26)00287-4?rss=yes",
+    "date": "2026-09-18T10:09:05.433006Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "Long-range mRNA folding shapes expression and sequence of bacterial genes",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00561-7?rss=yes",
+    "date": "2026-09-18T10:09:03.664474Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "Promiscuous RNA binding by WDR5 remodels the KMT2A (MLL1) histone methyltransferase complex to an inactive state",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00555-1?rss=yes",
+    "date": "2026-09-18T10:09:03.618510Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "TRiC/CCT chaperonin governs RNA polymerase II activity in the nucleus to support RNA homeostasis",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00562-9?rss=yes",
+    "date": "2026-09-18T10:09:03.572012Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "Maintenance of nucleosome organization through replication and transcription counteracts aberrant coalescence of active chromatin",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00514-9?rss=yes",
+    "date": "2026-09-18T10:09:03.525810Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "CONCR lncRNA organizes a 3\u2032-end structural domain that engages DDX11 for DNA replication and sister chromatid cohesion",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00551-4?rss=yes",
+    "date": "2026-09-18T10:09:03.480503Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "An IRAK1-snRNA axis activates ATM to promote accurate repair within transcriptionally active chromatin",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00553-8?rss=yes",
+    "date": "2026-09-18T10:09:03.435106Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "A splicing checkpoint licenses resistosome assembly",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00589-7?rss=yes",
+    "date": "2026-09-18T10:09:03.385829Z"
+  },
+  {
+    "journal": "Cell",
+    "title": "Spatial proximity sequencing maps developmental dynamics in the germinal center",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00754-3?rss=yes",
+    "date": "2026-09-18T10:09:03.105090Z"
+  },
+  {
+    "journal": "Cell",
+    "title": "Dietary arginine drives codon-dependent MHC class I translation and improves immunity in colon tumorigenesis and respiratory viral infection",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00818-4?rss=yes",
+    "date": "2026-09-18T10:09:03.054872Z"
+  },
+  {
+    "journal": "Cell",
+    "title": "scBaseCount: An AI agent-curated, standardized, auto-updated single-cell data repository",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00998-0?rss=yes",
+    "date": "2026-09-18T10:09:03.007851Z"
+  },
+  {
+    "journal": "Cell",
+    "title": "Avoiding common failures in AI for health and medicine",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00823-8?rss=yes",
+    "date": "2026-09-18T10:09:02.961524Z"
+  },
+  {
+    "journal": "Science",
+    "title": "A viral origin for RNA-guided immunity",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael0758?af=R",
+    "date": "2026-09-18T10:09:02.061104Z"
+  },
+  {
+    "journal": "Science",
+    "title": "VIPR RNA-guided DNA recognition by noncontiguous geometric triplex formation",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei3472?af=R",
+    "date": "2026-09-18T10:09:02.011814Z"
+  },
+  {
+    "journal": "Science",
+    "title": "A noncontiguous code for RNA-guided DNA recognition at the origin of CRISPR-Cas",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei0498?af=R",
+    "date": "2026-09-18T10:09:01.964641Z"
+  },
+  {
+    "journal": "Nature Communications",
+    "title": "Whisker-based tactile flight for tiny drones",
+    "link": "https://www.nature.com/articles/s41467-026-77366-7",
+    "date": "2026-09-18T10:09:01.552298Z"
+  },
+  {
+    "journal": "Nature Neuroscience",
+    "title": "Serotonin neurons in the dorsal raphe control food-craving-like behavior during pregnancy in mice",
+    "link": "https://www.nature.com/articles/s41593-026-02445-3",
+    "date": "2026-09-18T10:09:01.290415Z"
+  },
+  {
+    "journal": "Molecular Therapy Nucleic Acids",
     "title": "Cas12a chRDNA-mediated in vivo genome editing for high specificity functional gene disruption",
     "link": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(26)00255-6?rss=yes",
     "date": "2026-09-17T10:08:39.298158Z"
