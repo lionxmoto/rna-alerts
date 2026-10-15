@@ -1,6 +1,102 @@
 [
   {
     "journal": "Molecular Therapy Nucleic Acids",
+    "title": "Morpholino-mediated splice switching of NELFE suppresses hepatocellular carcinoma cell phenotypes in vitro and in vivo",
+    "link": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(26)00295-7?rss=yes",
+    "date": "2026-10-15T14:39:00.816337Z"
+  },
+  {
+    "journal": "Cell Chemical Biology",
+    "title": "Arginine methylation in immunoregulation: Mechanisms and therapeutic targeting",
+    "link": "https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(26)00331-4?rss=yes",
+    "date": "2026-10-15T14:39:00.506689Z"
+  },
+  {
+    "journal": "Cell Reports",
+    "title": "Histone H3K27 methylation states are sequentially catalyzed in cycling cells",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01228-3?rss=yes",
+    "date": "2026-10-15T14:38:58.524351Z"
+  },
+  {
+    "journal": "Cell Reports",
+    "title": "The NuRD complex shapes RNA polymerase III activity at highly expressed tRNA gene clusters, tuning the dynamic range of cellular tRNA pools",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01212-X?rss=yes",
+    "date": "2026-10-15T14:38:58.396894Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "Ribosome remodeling drives translation adaptation during viral infection and cellular stress",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00629-5?rss=yes",
+    "date": "2026-10-15T14:38:57.969789Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "The early RNA decay factor ZC3H18 directs first intron splicing",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00628-3?rss=yes",
+    "date": "2026-10-15T14:38:57.847216Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "DND1-NANOS3 shapes the PGC transcriptome via a heptanucleotide sequence in mRNA 3\u2032 UTRs",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00653-2?rss=yes",
+    "date": "2026-10-15T14:38:57.735888Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "dsRNAscan maps human dsRNAome, revealing conservation, intermolecular dsRNA, and correlates of ADAR dependency",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00548-4?rss=yes",
+    "date": "2026-10-15T14:38:57.621524Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "Emerging frontiers for AI in single-cell genomics",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00657-X?rss=yes",
+    "date": "2026-10-15T14:38:57.503091Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "Beyond prediction: The evolving role of artificial intelligence in genome editing",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00594-0?rss=yes",
+    "date": "2026-10-15T14:38:57.380269Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "AI empowers scalable and programmable RNA design",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00668-4?rss=yes",
+    "date": "2026-10-15T14:38:57.252691Z"
+  },
+  {
+    "journal": "Cell",
+    "title": "Human nuclear ribomes reveal DNA-embedded ribonucleotides as epigenetic modulators of transcription-associated DNA supercoiling",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00922-0?rss=yes",
+    "date": "2026-10-15T14:38:56.808007Z"
+  },
+  {
+    "journal": "Science Translational Medicine",
+    "title": "Orthogonal Fc engineering enables multiplexed delivery of mRNA-encoded bispecific antibodies that constrain viral escape",
+    "link": "https://www.science.org/doi/abs/10.1126/scitranslmed.aeh1292?af=R",
+    "date": "2026-10-15T14:38:56.318493Z"
+  },
+  {
+    "journal": "Science Advances",
+    "title": "A B1 SINE element within the mouse Malat1 long noncoding RNA acts as an internal ribosome entry site mediating micropeptide translation",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee5884?af=R",
+    "date": "2026-10-15T14:38:55.257773Z"
+  },
+  {
+    "journal": "Science Advances",
+    "title": "Maternal vaccination with capsular polysaccharide bioconjugates protects against murine Klebsiella pneumoniae neonatal sepsis",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh8222?af=R",
+    "date": "2026-10-15T14:38:55.129135Z"
+  },
+  {
+    "journal": "Nature",
+    "title": "Hidden reaction pathways inform additive engineering for perovskite LEDs",
+    "link": "https://www.nature.com/articles/s41586-026-11120-3",
+    "date": "2026-10-15T14:38:53.045883Z"
+  },
+  {
+    "journal": "Molecular Therapy Nucleic Acids",
     "title": "Insights into extracellular vesicles: From biogenesis and tumor immune modulation to their clinical potential in immunotherapy",
     "link": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(26)00287-8?rss=yes",
     "date": "2026-10-14T14:51:50.219823Z"
