@@ -1,5 +1,71 @@
 [
   {
+    "journal": "Cell Systems",
+    "title": "Identifying memory gene expression from single-sample scRNA-seq data using power-law signatures",
+    "link": "https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00189-4?rss=yes",
+    "date": "2026-10-21T14:50:19.333126Z"
+  },
+  {
+    "journal": "Cell Systems",
+    "title": "Single-cell heterogeneity in interferon induction potential is heritable and governed by variation in cell state",
+    "link": "https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00158-4?rss=yes",
+    "date": "2026-10-21T14:50:19.132993Z"
+  },
+  {
+    "journal": "Cell Systems",
+    "title": "CAR T cells from code to clinic: Framing modeling approaches with current translational research goals",
+    "link": "https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00198-5?rss=yes",
+    "date": "2026-10-21T14:50:18.935484Z"
+  },
+  {
+    "journal": "Cell Systems",
+    "title": "What is the future of genomic foundation models in biological research?",
+    "link": "https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00240-1?rss=yes",
+    "date": "2026-10-21T14:50:18.730497Z"
+  },
+  {
+    "journal": "Cell Reports",
+    "title": "METTL4 interacts with histone methylation readers MRG1/2 to regulate alternative splicing and promote thermomorphogenesis in Arabidopsis",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01241-6?rss=yes",
+    "date": "2026-10-21T14:50:17.213585Z"
+  },
+  {
+    "journal": "Cell Reports",
+    "title": "Optogenetic reduction of theta oscillations induces remapping of time cells without memory impairment",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01271-4?rss=yes",
+    "date": "2026-10-21T14:50:16.994623Z"
+  },
+  {
+    "journal": "Cell Reports",
+    "title": "Multi-omics profiling of the choroid plexus reveals developmental cellular remodeling, early immune gene activation, and epithelial cell heterogeneity",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01252-0?rss=yes",
+    "date": "2026-10-21T14:50:16.780625Z"
+  },
+  {
+    "journal": "Cell Reports",
+    "title": "SMURFs regulate mesendoderm differentiation through SMAD2-dependent ubiquitination of CDK9",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01251-9?rss=yes",
+    "date": "2026-10-21T14:50:16.566179Z"
+  },
+  {
+    "journal": "Nature Communications",
+    "title": "Tumor-intrinsic PTPN12 suppresses anti-tumor immunity in colorectal cancer by restraining a dual epigenetic and cytoskeletal dsRNA sensing program",
+    "link": "https://www.nature.com/articles/s41467-026-78487-9",
+    "date": "2026-10-21T14:50:14.361100Z"
+  },
+  {
+    "journal": "Nature Neuroscience",
+    "title": "A corticohypothalamic circuit that mediates maternal awakening to pup cries",
+    "link": "https://www.nature.com/articles/s41593-026-02458-y",
+    "date": "2026-10-21T14:50:13.900987Z"
+  },
+  {
+    "journal": "Nature Biotechnology",
+    "title": "Recordanelles for transcriptome-wide single-cell RNA recording in human cells",
+    "link": "https://www.nature.com/articles/s41587-026-03327-6",
+    "date": "2026-10-21T14:50:13.551049Z"
+  },
+  {
     "journal": "Nature Biotechnology",
     "title": "Engineered human Argonaute 2 for targeted C-to-U RNA base editing",
     "link": "https://www.nature.com/articles/s41587-026-03359-y",
