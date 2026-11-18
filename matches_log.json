@@ -1,6 +1,66 @@
 [
   {
     "journal": "Molecular Therapy Nucleic Acids",
+    "title": "RNA modifications in cancer therapy resistance: Mechanisms and therapeutic targeting",
+    "link": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(26)00341-0?rss=yes",
+    "date": "2026-11-18T18:37:13.916484Z"
+  },
+  {
+    "journal": "Molecular Therapy Nucleic Acids",
+    "title": "Help from a neighbor: PCBP2 facilitates miR-93-5p repression of GDF11",
+    "link": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(26)00348-3?rss=yes",
+    "date": "2026-11-18T18:37:13.811591Z"
+  },
+  {
+    "journal": "Molecular Therapy Nucleic Acids",
+    "title": "Advancing Plasmodium vivax vaccines: A novel multistage antigen meets mRNA technology",
+    "link": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(26)00347-1?rss=yes",
+    "date": "2026-11-18T18:37:13.708649Z"
+  },
+  {
+    "journal": "Cell Systems",
+    "title": "CRISPR-associated enzymes are mislocalized to the cytoplasm in iPSC-derived neurons, resulting in KRAB(KOX1)-specific degradation",
+    "link": "https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00219-X?rss=yes",
+    "date": "2026-11-18T18:37:12.838876Z"
+  },
+  {
+    "journal": "Cell Systems",
+    "title": "Deep Lineage: Single-cell lineage tracing and fate inference using deep learning",
+    "link": "https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00241-3?rss=yes",
+    "date": "2026-11-18T18:37:12.724622Z"
+  },
+  {
+    "journal": "Cell Systems",
+    "title": "Interpretable models for scRNA-seq data embedding with multi-scale structure preservation",
+    "link": "https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00242-5?rss=yes",
+    "date": "2026-11-18T18:37:12.593722Z"
+  },
+  {
+    "journal": "Cell Systems",
+    "title": "A systematic delineation of 3\u2032UTR regulatory elements and their contextual associations",
+    "link": "https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00243-7?rss=yes",
+    "date": "2026-11-18T18:37:12.481960Z"
+  },
+  {
+    "journal": "Cell Systems",
+    "title": "PROFET predicts continuous gene expression dynamics from scRNA-seq data to elucidate heterogeneity of cancer treatment responses",
+    "link": "https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00192-4?rss=yes",
+    "date": "2026-11-18T18:37:12.360616Z"
+  },
+  {
+    "journal": "Nature",
+    "title": "Hypothalamic volume and cell-type changes in ageing and Alzheimer\u2019s disease",
+    "link": "https://www.nature.com/articles/s41586-026-11305-w",
+    "date": "2026-11-18T18:37:03.719663Z"
+  },
+  {
+    "journal": "Nature",
+    "title": "Bogong moths navigate with a light-dependent geomagnetic inclination compass",
+    "link": "https://www.nature.com/articles/s41586-026-11322-9",
+    "date": "2026-11-18T18:37:03.593746Z"
+  },
+  {
+    "journal": "Molecular Therapy Nucleic Acids",
     "title": "Development and validation of potent, chemically stabilized, PARP1-selective siRNAs for in vivo gene silencing",
     "link": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(26)00328-8?rss=yes",
     "date": "2026-11-17T18:55:40.821026Z"
