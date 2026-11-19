@@ -1,5 +1,101 @@
 [
   {
+    "journal": "Cell Chemical Biology",
+    "title": "Host specific sphingomyelin is critical for replication of diverse RNA viruses",
+    "link": "https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(26)00407-1?rss=yes",
+    "date": "2026-11-19T18:49:54.906074Z"
+  },
+  {
+    "journal": "Cell Chemical Biology",
+    "title": "Structural basis and rational engineering of a thermophilic Cas13a for robust RNA detection",
+    "link": "https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(26)00361-2?rss=yes",
+    "date": "2026-11-19T18:49:54.672243Z"
+  },
+  {
+    "journal": "Cell Chemical Biology",
+    "title": "Small-molecule activation of the tumor suppressor kinase LKB1 via the pseudokinase STRAD",
+    "link": "https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(26)00286-2?rss=yes",
+    "date": "2026-11-19T18:49:54.436637Z"
+  },
+  {
+    "journal": "Cell Reports",
+    "title": "Profiling of i6A37 and ms2i6A37 tRNA modifications across eukaryotes by isopentenyl-tRNA-seq",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01414-2?rss=yes",
+    "date": "2026-11-19T18:49:53.421838Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "40S ribosome remodeling triggers 18S rRNA U-tailing and DIS3L2-dependent decay",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00665-9?rss=yes",
+    "date": "2026-11-19T18:49:53.102084Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "Oligo(uridine) tailing and exonucleolytic decay drive 40S ribosome degradation in response to stress",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00664-7?rss=yes",
+    "date": "2026-11-19T18:49:52.843597Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "Amyloid-mediated RNA uptake by sperm for embryonic delivery",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00709-4?rss=yes",
+    "date": "2026-11-19T18:49:52.584220Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "Protein arginine methylation promotes global 3\u2032UTR shortening in proliferating cells",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00708-2?rss=yes",
+    "date": "2026-11-19T18:49:52.345312Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "P-TEFb regulates nucleosome positioning at promoters",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00716-1?rss=yes",
+    "date": "2026-11-19T18:49:52.106372Z"
+  },
+  {
+    "journal": "Molecular Cell",
+    "title": "When two become one: Chimeric RNAs regulating innate immunity",
+    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00752-5?rss=yes",
+    "date": "2026-11-19T18:49:51.867187Z"
+  },
+  {
+    "journal": "Science Translational Medicine",
+    "title": "Rescue of glutaric aciduria type I by GalNAc-conjugated siRNA against aminoadipate semialdehyde synthase",
+    "link": "https://www.science.org/doi/abs/10.1126/scitranslmed.aej2067?af=R",
+    "date": "2026-11-19T18:49:51.466423Z"
+  },
+  {
+    "journal": "Science Advances",
+    "title": "Somatostatin 6, a master maternal mRNA driving early development",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg3810?af=R",
+    "date": "2026-11-19T18:49:50.955655Z"
+  },
+  {
+    "journal": "Science Advances",
+    "title": "An integrative single-cell long noncoding RNA atlas reveals regulatory programs in the pan-cancer tumor microenvironment",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei2542?af=R",
+    "date": "2026-11-19T18:49:50.715200Z"
+  },
+  {
+    "journal": "Nature Communications",
+    "title": "In vivo programming of dual-targeted CAR-T cells facilitates vascular disruption and T-cell infiltration in solid tumors",
+    "link": "https://www.nature.com/articles/s41467-026-79342-7",
+    "date": "2026-11-19T18:49:50.232408Z"
+  },
+  {
+    "journal": "Nature Biotechnology",
+    "title": "Programmable functional RNA design with a virtual scientist",
+    "link": "https://www.nature.com/articles/s41587-026-03362-3",
+    "date": "2026-11-19T18:49:48.616904Z"
+  },
+  {
+    "journal": "Nature Methods",
+    "title": "Space-map is a tool that integrates tissue slices into detailed 3D cell maps",
+    "link": "https://www.nature.com/articles/s41592-026-03309-1",
+    "date": "2026-11-19T18:49:48.306701Z"
+  },
+  {
     "journal": "Molecular Therapy Nucleic Acids",
     "title": "RNA modifications in cancer therapy resistance: Mechanisms and therapeutic targeting",
     "link": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(26)00341-0?rss=yes",
