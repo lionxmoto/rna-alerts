@@ -1,6 +1,42 @@
 [
   {
     "journal": "Molecular Therapy Nucleic Acids",
+    "title": "mRNA-1273.251 and mRNA-1283.251 vaccines expressing SARS-CoV-2 variant LP.8.1 antigens broadly neutralize JN.1-lineage viruses",
+    "link": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(26)00349-5?rss=yes",
+    "date": "2026-11-24T20:29:06.662409Z"
+  },
+  {
+    "journal": "Molecular Therapy Nucleic Acids",
+    "title": "How human DICER reads RNA ends",
+    "link": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(26)00339-2?rss=yes",
+    "date": "2026-11-24T20:29:06.424901Z"
+  },
+  {
+    "journal": "Cell Reports",
+    "title": "Single-cell multiomics analysis reveals Cxcl12 enhancer inactivation in LepRhigh-MSCs driving niche dysfunction in murine myeloid malignancies",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01444-0?rss=yes",
+    "date": "2026-11-24T20:29:05.196833Z"
+  },
+  {
+    "journal": "Cell Reports",
+    "title": "Viral and host RLR ligands and role of m5C modification in innate immune response to influenza virus",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01438-5?rss=yes",
+    "date": "2026-11-24T20:29:04.956739Z"
+  },
+  {
+    "journal": "Nature Chemical Biology",
+    "title": "scBiopsy-seq as a highly sensitive platform for temporal single-cell RNA-sequencing analysis",
+    "link": "https://www.nature.com/articles/s41589-026-02375-y",
+    "date": "2026-11-24T20:29:03.526413Z"
+  },
+  {
+    "journal": "Nature Biotechnology",
+    "title": "Modular mRNA-encoded helper proteins enhance DNA delivery",
+    "link": "https://www.nature.com/articles/s41587-026-03351-6",
+    "date": "2026-11-24T20:29:03.102322Z"
+  },
+  {
+    "journal": "Molecular Therapy Nucleic Acids",
     "title": "mRNA modifications: When less can be more",
     "link": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(26)00336-7?rss=yes",
     "date": "2026-11-23T21:53:07.303917Z"
@@ -2968,35 +3004,5 @@
     "title": "The proportional scaling of mRNA and ribosome concentrations controls eukaryotic cell growth",
     "link": "https://www.nature.com/articles/s41556-026-02045-0",
     "date": "2026-09-02T16:36:34.625038Z"
-  },
-  {
-    "journal": "Nature Cell Biology",
-    "title": "A mechanical origin for pregnancy loss related to maternal age",
-    "link": "https://www.nature.com/articles/s41556-026-02054-z",
-    "date": "2026-09-02T16:36:34.343807Z"
-  },
-  {
-    "journal": "Nature Biotechnology",
-    "title": "A pervasive RT\u2013qPCR artifact inflates RNA knockdown by RNA-targeting CRISPR",
-    "link": "https://www.nature.com/articles/s41587-026-03291-1",
-    "date": "2026-09-02T16:36:34.041644Z"
-  },
-  {
-    "journal": "Nature Methods",
-    "title": "Confounders of lncRNA screens: sources, consequences and possible solutions",
-    "link": "https://www.nature.com/articles/s41592-026-03226-3",
-    "date": "2026-09-02T16:36:33.733297Z"
-  },
-  {
-    "journal": "Nature",
-    "title": "Rewiring the ribosome to translate proteins encoded in its own RNA",
-    "link": "https://www.nature.com/articles/s41586-026-10962-1",
-    "date": "2026-09-02T16:36:32.787226Z"
-  },
-  {
-    "journal": "Nature",
-    "title": "Creating bottom-up RNA transfer vehicles from synthetic protein assemblies",
-    "link": "https://www.nature.com/articles/s41586-026-10952-3",
-    "date": "2026-09-02T16:36:32.513400Z"
   }
 ]
