@@ -1,5 +1,47 @@
 [
   {
+    "journal": "Cell",
+    "title": "Promoter of lncRNA Gene PVT1 Is a Tumor-Suppressor DNA Boundary Element",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01266-3?rss=yes",
+    "date": "2026-11-25T19:43:57.725307Z"
+  },
+  {
+    "journal": "Cell",
+    "title": "Oxygen-responsive bacterial glycosphingolipid links symbiont fitness and immune development in neonatal host",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00938-4?rss=yes",
+    "date": "2026-11-25T19:43:57.529816Z"
+  },
+  {
+    "journal": "Cell",
+    "title": "Shifts in embryonic oxygen levels cue heterochrony in limb initiation",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01062-7?rss=yes",
+    "date": "2026-11-25T19:43:57.318054Z"
+  },
+  {
+    "journal": "Cell",
+    "title": "Phosphate backbone epitranscriptomics: Discovery of natural RNA phosphorothioates and their writer machinery",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01007-X?rss=yes",
+    "date": "2026-11-25T19:43:57.121081Z"
+  },
+  {
+    "journal": "Cell",
+    "title": "Revisiting the chemical alphabet of nucleic acids",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01335-8?rss=yes",
+    "date": "2026-11-25T19:43:56.912184Z"
+  },
+  {
+    "journal": "Nature",
+    "title": "Structural basis of RNA-guided DNA integration by type I CAST systems",
+    "link": "https://www.nature.com/articles/s41586-026-11196-x",
+    "date": "2026-11-25T19:43:51.567316Z"
+  },
+  {
+    "journal": "Nature",
+    "title": "Licensing mechanisms during RNA-guided DNA integration by type I-F3 CAST",
+    "link": "https://www.nature.com/articles/s41586-026-11287-9",
+    "date": "2026-11-25T19:43:51.354194Z"
+  },
+  {
     "journal": "Molecular Therapy Nucleic Acids",
     "title": "mRNA-1273.251 and mRNA-1283.251 vaccines expressing SARS-CoV-2 variant LP.8.1 antigens broadly neutralize JN.1-lineage viruses",
     "link": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(26)00349-5?rss=yes",
@@ -2962,47 +3004,5 @@
     "title": "RIBOTAC-mediated degradation of hsa-microRNA-301a-3p suppresses TNBC bone metastasis",
     "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh7999?af=R",
     "date": "2026-09-02T16:36:39.422815Z"
-  },
-  {
-    "journal": "Science",
-    "title": "The knotty problem of RNA structure prediction",
-    "link": "https://www.science.org/doi/abs/10.1126/science.aek4499?af=R",
-    "date": "2026-09-02T16:36:38.468260Z"
-  },
-  {
-    "journal": "Science",
-    "title": "De novo design of RNA pseudoknots with deep learning",
-    "link": "https://www.science.org/doi/abs/10.1126/science.aeg6829?af=R",
-    "date": "2026-09-02T16:36:37.892778Z"
-  },
-  {
-    "journal": "Science",
-    "title": "Nonviral delivery of chemically modified tRNA rescues nonsense mutations in cystic fibrosis",
-    "link": "https://www.science.org/doi/abs/10.1126/science.aeb0054?af=R",
-    "date": "2026-09-02T16:36:37.646710Z"
-  },
-  {
-    "journal": "Nature Chemical Biology",
-    "title": "\u03b12,6-Sialoglycan-regulated antitumor immunity of tumor-infiltrating CD8<sup>+</sup> T cells",
-    "link": "https://www.nature.com/articles/s41589-026-02299-7",
-    "date": "2026-09-02T16:36:35.777467Z"
-  },
-  {
-    "journal": "Nature Cell Biology",
-    "title": "Biosensor reveals unexpected variability in the cGAS response to DNA damage",
-    "link": "https://www.nature.com/articles/s41556-026-02039-y",
-    "date": "2026-09-02T16:36:35.376665Z"
-  },
-  {
-    "journal": "Nature Cell Biology",
-    "title": "DREAMS illuminates spatial DNA and RNA modification landscapes",
-    "link": "https://www.nature.com/articles/s41556-026-02038-z",
-    "date": "2026-09-02T16:36:34.891748Z"
-  },
-  {
-    "journal": "Nature Cell Biology",
-    "title": "The proportional scaling of mRNA and ribosome concentrations controls eukaryotic cell growth",
-    "link": "https://www.nature.com/articles/s41556-026-02045-0",
-    "date": "2026-09-02T16:36:34.625038Z"
   }
 ]
