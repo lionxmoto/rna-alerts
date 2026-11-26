@@ -1,5 +1,29 @@
 [
   {
+    "journal": "Molecular Therapy Nucleic Acids",
+    "title": "ATF3 mRNA: A new avenue for epidermal-dermal skin rejuvenation",
+    "link": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(26)00361-6?rss=yes",
+    "date": "2026-11-26T19:24:22.479226Z"
+  },
+  {
+    "journal": "Molecular Therapy Nucleic Acids",
+    "title": "Cell-surface Y RNAs drive inflammation and are potential therapeutic targets in inflammatory bowel disease",
+    "link": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(26)00358-6?rss=yes",
+    "date": "2026-11-26T19:24:22.299001Z"
+  },
+  {
+    "journal": "Science Advances",
+    "title": "Aclarubicin disrupts RNA polymerase II progression at replication-coupled histone genes",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej7096?af=R",
+    "date": "2026-11-26T19:24:20.179416Z"
+  },
+  {
+    "journal": "Science Advances",
+    "title": "Umbilical cord structure shapes feto-maternal heat transfer across mammals",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg5645?af=R",
+    "date": "2026-11-26T19:24:19.987872Z"
+  },
+  {
     "journal": "Cell",
     "title": "Promoter of lncRNA Gene PVT1 Is a Tumor-Suppressor DNA Boundary Element",
     "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01266-3?rss=yes",
@@ -2980,29 +3004,5 @@
     "title": "Baseline interferon signaling in monocytes and antibody-mediated innate activation are associated with reactogenicity to mRNA vaccines",
     "link": "https://www.science.org/doi/abs/10.1126/scitranslmed.aee4776?af=R",
     "date": "2026-09-02T16:36:40.666946Z"
-  },
-  {
-    "journal": "Science Translational Medicine",
-    "title": "Urogenital immune signatures are associated with birth outcomes after maternal urinary tract infection",
-    "link": "https://www.science.org/doi/abs/10.1126/scitranslmed.aea1228?af=R",
-    "date": "2026-09-02T16:36:40.423718Z"
-  },
-  {
-    "journal": "Science Translational Medicine",
-    "title": "Aberrant alternative splicing memorized in adipose tissue macrophages impedes efferocytosis during postobesity weight loss",
-    "link": "https://www.science.org/doi/abs/10.1126/scitranslmed.adv0221?af=R",
-    "date": "2026-09-02T16:36:40.156723Z"
-  },
-  {
-    "journal": "Science Advances",
-    "title": "Surface chemistry governs sex-dependent responses to PEG and zwitterionic siRNA nanocarriers in primary macrophages",
-    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef4315?af=R",
-    "date": "2026-09-02T16:36:39.671737Z"
-  },
-  {
-    "journal": "Science Advances",
-    "title": "RIBOTAC-mediated degradation of hsa-microRNA-301a-3p suppresses TNBC bone metastasis",
-    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh7999?af=R",
-    "date": "2026-09-02T16:36:39.422815Z"
   }
 ]
