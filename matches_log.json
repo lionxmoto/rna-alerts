@@ -1,5 +1,23 @@
 [
   {
+    "journal": "Nature Cell Biology",
+    "title": "SLBP-independent control of maternal histone mRNA",
+    "link": "https://www.nature.com/articles/s41556-026-02141-1",
+    "date": "2026-11-27T19:19:35.347348Z"
+  },
+  {
+    "journal": "Nature Cell Biology",
+    "title": "Membraneless barriers compartmentalize RNA surveillance",
+    "link": "https://www.nature.com/articles/s41556-026-02148-8",
+    "date": "2026-11-27T19:19:35.108836Z"
+  },
+  {
+    "journal": "Nature Methods",
+    "title": "Mechanism-grounded RNA velocity: from kinetic models to deep learning and foundation models",
+    "link": "https://www.nature.com/articles/s41592-026-03387-1",
+    "date": "2026-11-27T19:19:34.783103Z"
+  },
+  {
     "journal": "Molecular Therapy Nucleic Acids",
     "title": "ATF3 mRNA: A new avenue for epidermal-dermal skin rejuvenation",
     "link": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(26)00361-6?rss=yes",
@@ -2986,23 +3004,5 @@
     "title": "A splicing twist from \u03a8",
     "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00507-1?rss=yes",
     "date": "2026-09-02T16:36:41.865305Z"
-  },
-  {
-    "journal": "Molecular Cell",
-    "title": "From nucleotides to phospholipids: UCK1\u2019s unexpected role in SARS-CoV-2 membrane remodeling",
-    "link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00515-0?rss=yes",
-    "date": "2026-09-02T16:36:41.624912Z"
-  },
-  {
-    "journal": "Cell",
-    "title": "Viral protease-initiated lytic cell death as a universal antiviral mRNA therapy",
-    "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00751-8?rss=yes",
-    "date": "2026-09-02T16:36:41.079396Z"
-  },
-  {
-    "journal": "Science Translational Medicine",
-    "title": "Baseline interferon signaling in monocytes and antibody-mediated innate activation are associated with reactogenicity to mRNA vaccines",
-    "link": "https://www.science.org/doi/abs/10.1126/scitranslmed.aee4776?af=R",
-    "date": "2026-09-02T16:36:40.666946Z"
   }
 ]
